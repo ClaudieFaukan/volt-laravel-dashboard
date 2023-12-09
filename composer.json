@@ -9,7 +9,10 @@
         "guzzlehttp/guzzle": "^7.4",
         "laravel/framework": "^10.0",
         "laravel/tinker": "^2.6",
-        "livewire/livewire": "^2.8"
+        "livewire/livewire": "^2.8",
+        "mcamara/laravel-localization": "^1.8",
+        "spatie/laravel-sitemap": "^7.0",
+        "spatie/laravel-translatable": "^6.5"
     },
     "require-dev": {
         "spatie/laravel-ignition": "^2.0",
